@@ -407,6 +407,11 @@ use#empowering {
     margin-bottom: .25rem;
 }
 
+#explainer p:last-of-type {
+    font-size: .7rem;
+    line-height: 1.4;
+}
+
 /*** SECTION - SHARE ***/
 
 #share {
